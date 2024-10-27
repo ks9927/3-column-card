@@ -57,6 +57,7 @@ p {
   margin-right: 40px;
 }
 
+/* Sedan Div styling */
 .sedan-div {
   background-color: hsl(31, 77%, 52%);
 }
@@ -68,6 +69,8 @@ p {
   background-color: hsl(31, 77%, 52%);
   color: hsl(0, 0%, 95%);
 }
+
+/* SUV Div styling */
 .suv-div {
   background-color: hsl(184, 100%, 22%);
 }
@@ -81,6 +84,7 @@ p {
   color: hsl(0, 0%, 95%);
 }
 
+/* Luxury Div styling */
 .luxury-div {
   background-color: hsl(179, 100%, 13%);
 }
@@ -93,6 +97,7 @@ p {
   background-color: hsl(179, 100%, 13%);
   color: hsl(0, 0%, 95%);
 }
+
 button:hover {
   cursor: pointer;
 }
